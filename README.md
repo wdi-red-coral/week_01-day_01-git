@@ -172,6 +172,8 @@ What do you see? The addition of `the-stark-bunch.md` is still staged as a `new 
 
 What's the difference between `git rm` and `rm`? What is actually happening with the `git rm` command?
 
+![git image](https://media.git.generalassemb.ly/user/3667/files/62b10e4a-263e-11e7-8912-e98a5d215206)
+
 ## Branching: Multiple Stories, One Main Plot
 
 Looking back, we know that Ned's story doesn't have a happy ending but let's
