@@ -218,15 +218,26 @@ you may have noticed).
 
 ![images/git-fork/git-fork.001.jpeg](images/git-fork/git-fork.001.jpeg)
 
+## Go to the repository you want to contribute to
 ![images/git-fork/git-fork.002.jpeg](images/git-fork/git-fork.002.jpeg)
+
+## Fork the repository
 
 ![images/git-fork/git-fork.003.jpeg](images/git-fork/git-fork.003.jpeg)
 
+## Clone the repository
+
 ![images/git-fork/git-fork.004.jpeg](images/git-fork/git-fork.004.jpeg)
+
+## Add/Edit/Remove files then `git add` and `git commit` your changes
 
 ![images/git-fork/git-fork.005.jpeg](images/git-fork/git-fork.005.jpeg)
 
+## Push your changes 
+
 ![images/git-fork/git-fork.006.jpeg](images/git-fork/git-fork.006.jpeg)
+
+## Open a Pull Request
 
 ![images/git-fork/git-fork.007.jpeg](images/git-fork/git-fork.007.jpeg)
 
