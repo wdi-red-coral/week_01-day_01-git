@@ -158,8 +158,7 @@ What do you see? The addition of `the-stark-bunch.md` is still staged as a `new 
 1. Open the file with VSCode and copy in the following lines:
 
   ```
-  This is a story... of a man named Neddy... and three very badass really
-  awesome girls
+  This is a story... of a family
   ```
 
 1. Save the file.
@@ -214,15 +213,27 @@ you may have noticed).
 - [ ] `git add 'file'`
 - [ ] `git status` (to confirm modified files have been staged)
 - [ ] `git commit`
-- [ ] `git push origin <branchname>`
+
+# Github and Git
+
+![images/git-fork/git-fork.001.jpeg](images/git-fork/git-fork.001.jpeg)
+
+![images/git-fork/git-fork.002.jpeg](images/git-fork/git-fork.002.jpeg)
+
+![images/git-fork/git-fork.003.jpeg](images/git-fork/git-fork.003.jpeg)
+
+![images/git-fork/git-fork.004.jpeg](images/git-fork/git-fork.004.jpeg)
+
+![images/git-fork/git-fork.005.jpeg](images/git-fork/git-fork.005.jpeg)
+
+![images/git-fork/git-fork.006.jpeg](images/git-fork/git-fork.006.jpeg)
+
+![images/git-fork/git-fork.007.jpeg](images/git-fork/git-fork.007.jpeg)
 
 ## Git Best Practices
 
 - ADD files explicitly. If you have multiple files, use full paths to refer to
   each. Example: `git add foo/bar.md baz/qux.js`
-- AVOID `git add .` unless you have just initialized a new repo and need to
-  stage all the files
-- USE `git commit` instead of `git commit -m "an example commit message"`
 - ALWAYS use `git status` before any other command
 - NO commit is too small
 - NO commit message is too long
@@ -230,11 +241,12 @@ you may have noticed).
 
 ## Additional Resources
 
-- [Git Commands Cheatsheet](command-reference.md)
+- [Git Commands Cheatsheet](git-cheatsheet.md)
+- [Github Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook)
 - [Visualizing Git Commands](https://onlywei.github.io/explain-git-with-d3/)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-- [Github Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
 
 ## [License](LICENSE)
 
