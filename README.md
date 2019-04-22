@@ -205,7 +205,7 @@ We can do this with the command `git checkout <branch-name>`.
 (Be ready to talk about any issues you many have encountered or strange things
 you may have noticed).
 
-## Git Workflow Checklist
+## Git Basic Workflow Checklist
 
 - [ ] `git status` to confirm clean working directory
 - [ ] confirm branch is correct
@@ -230,7 +230,19 @@ you may have noticed).
 
 ![images/git-fork/git-fork.007.jpeg](images/git-fork/git-fork.007.jpeg)
 
-## Git Best Practices
+## Github and Git Workflow Checklist
+
+- [ ] Fork the repository
+- [ ] `git clone` the repository
+- [ ] Complete your work by adding/editing files
+- [ ] `git status` to confirm clean working directory
+- [ ] `git add` your files
+- [ ] `git status` (to confirm modified files have been staged)
+- [ ] `git commit` with your message
+- [ ] `git push origin master`
+- [ ] open Pull Request 
+
+# Git Best Practices
 
 - ADD files explicitly. If you have multiple files, use full paths to refer to
   each. Example: `git add foo/bar.md baz/qux.js`
